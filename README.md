@@ -3,6 +3,6 @@ A simple web application that allows users to Create, Read, Update, and Delete r
 
 Features- 
 1. Add new entries
-2. 2. View existing entries
+2. View existing entries
 3. Edit and update entries
 4. Delete entries
